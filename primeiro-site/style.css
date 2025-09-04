@@ -49,6 +49,10 @@ body {
   margin-bottom: 3px;
 }
 
+.logo-peq {
+  height: 5px;
+}
+
 .foto {
   height: 170px;
   border-radius: 0 25px;
