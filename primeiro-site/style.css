@@ -50,7 +50,8 @@ body {
 }
 
 .logo-peq {
-  height: 5px;
+  height: 15px;
+  margin: 0 10px 0 0;
 }
 
 .foto {
@@ -69,5 +70,10 @@ body {
 
 a {
   text-decoration: none;
+  display: inline-block;
+  align-self: center;
+}
+
+a:link, a:visited {
   color: black;
 }
